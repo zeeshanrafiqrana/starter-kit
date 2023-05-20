@@ -49,4 +49,4 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-Forked Codebase
+Forked Codebase, OpenSource Licence Not Available
